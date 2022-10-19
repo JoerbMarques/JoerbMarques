@@ -9,8 +9,9 @@
 
 </br>
 
-![joerbMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=JoerbMarques&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoerbMarques&layout=merko)](https://github.com/JoerbMarques/github-readme-stats)
+![joerbMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=JoerbMarques&show_icons=true&theme=merko)</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoerbMarques&layout=compact)](https://github.com/JoerbMarques/github-readme-stats)
 
 ## Tecnologias
 
